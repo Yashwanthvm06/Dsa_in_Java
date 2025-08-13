@@ -1,4 +1,3 @@
-package com.yash;
 import java.util.*;
 public class Left_rotate_array {
     public static void main(String[] args) {
