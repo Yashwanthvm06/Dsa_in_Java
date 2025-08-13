@@ -1,4 +1,3 @@
-package com.yash;
 import java.util.*;
 public class Move_0_to_end {
     public static void main(String[] args) {

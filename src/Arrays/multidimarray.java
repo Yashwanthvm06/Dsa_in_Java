@@ -1,4 +1,3 @@
-package com.yash;
 import java.util.Arrays;
 import java.util.Scanner;
 public class multidimarray {

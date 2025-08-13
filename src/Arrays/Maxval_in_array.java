@@ -1,4 +1,3 @@
-package com.yash;
 
 import java.util.Scanner;
 
