@@ -1,4 +1,3 @@
-package com;
 
 public class searchinrange {
     public static void main(String[] args) {

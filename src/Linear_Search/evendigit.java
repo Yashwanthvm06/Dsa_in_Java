@@ -1,4 +1,3 @@
-package com;
 
 public class evendigit {
     public static void main(String[] args) {

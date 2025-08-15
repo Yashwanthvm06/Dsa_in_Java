@@ -1,4 +1,3 @@
-package com;
 
 public class searchinginstr {
     public static void main(String[] args) {

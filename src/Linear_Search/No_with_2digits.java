@@ -1,4 +1,3 @@
-package com;
 
 class No_with_2digits {
     public static void main(String[] args) {
