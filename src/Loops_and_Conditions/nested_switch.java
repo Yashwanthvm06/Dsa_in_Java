@@ -1,4 +1,3 @@
-package com.fruits;
 import java.util.Scanner;
 public class nested_switch {
     public static void main(String[] args) {
