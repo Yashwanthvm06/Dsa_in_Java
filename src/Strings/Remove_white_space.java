@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Remove_white_space {
     public static void main(String[] args) {

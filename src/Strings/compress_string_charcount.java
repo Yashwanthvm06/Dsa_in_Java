@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class compress_string_charcount {
     public static void main(String[] args) {

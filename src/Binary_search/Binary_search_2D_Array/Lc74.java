@@ -1,4 +1,4 @@
-package lc_binary2d;
+
 
 class Lc74 {
     public static void main(String[] args) {

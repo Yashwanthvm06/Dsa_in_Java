@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Stringpasswd {
     public static void main(String[] args) {

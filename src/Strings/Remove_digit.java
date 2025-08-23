@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Remove_digit {
     public static void main(String[] args) {

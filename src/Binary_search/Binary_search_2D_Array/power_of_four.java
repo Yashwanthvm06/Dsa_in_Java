@@ -1,4 +1,4 @@
-package lc_binary2d;
+
 
 public class power_of_four {
     public static void main(String[] args) {

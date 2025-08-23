@@ -1,4 +1,4 @@
-    package Strings;
+
 
     public class Max_word {
         public static void main(String[] args) {

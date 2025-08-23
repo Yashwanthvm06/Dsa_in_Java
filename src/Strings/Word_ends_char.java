@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Word_ends_char {
     public static void main(String[] args) {

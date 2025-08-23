@@ -1,4 +1,4 @@
-package bianry2d;
+
 
 class Max_wealth {
     public static void main(String[] args) {

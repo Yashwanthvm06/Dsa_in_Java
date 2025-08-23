@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Convert_case_trim {
     public static void main(String[] args) {

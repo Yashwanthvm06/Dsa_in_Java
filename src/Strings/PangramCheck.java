@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class PangramCheck {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Count_of_Substring {
     public static void main(String[] args) {

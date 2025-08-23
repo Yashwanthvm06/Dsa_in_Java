@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class string_vowel_count {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Replace_space_with_dash {
     public static void main(String[] args) {

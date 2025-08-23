@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Sblr_Capitilize_Word {
     public static void main(String[] args) {

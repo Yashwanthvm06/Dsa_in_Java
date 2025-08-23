@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class togglecase {
     public static void main(String[] args) {

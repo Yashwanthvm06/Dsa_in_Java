@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Sbr_vowel_removal {
     public static void main(String[] args) {

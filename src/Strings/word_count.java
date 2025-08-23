@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class word_count {
     public static void main(String[] args) {

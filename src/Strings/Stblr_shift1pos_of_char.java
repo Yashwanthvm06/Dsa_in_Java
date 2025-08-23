@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Stblr_shift1pos_of_char {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class url_valid {
     public static void main(String[] args) {

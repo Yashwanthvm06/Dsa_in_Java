@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Sbfr_word_reverse {
     public static void main(String[] args) {

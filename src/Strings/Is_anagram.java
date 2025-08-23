@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Is_anagram {
     public static void main(String[] args) {
